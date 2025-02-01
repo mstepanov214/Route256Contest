@@ -60,15 +60,15 @@
 
 Иллюстрация к первому тестовому набору из примера:
 
-<img alt="darkroom-testcase2" src="https://github.com/user-attachments/assets/68705e31-9287-4d64-ab19-ce4b71f0a2f6" />
+<img alt="darkroom-testcase2" src="https://github.com/user-attachments/assets/af05eaf7-3d58-4e66-8da6-3e2735752fad" />
 
 Иллюстрация ко второму тестовому набору из примера:
 
-<img alt="darkroom-testcase1" src="https://github.com/user-attachments/assets/3d7b55c9-15b0-4b7b-abec-bfe59be1a6c9" />
+<img alt="darkroom-testcase1" src="https://github.com/user-attachments/assets/353d9d13-cdd8-48f1-b3bc-4f8f601fe80b" />
 
 Иллюстрация к третьему тестовому набору из примера:
 
-![darkroom-testcase3](https://github.com/user-attachments/assets/c3d9c34e-553e-40fc-b798-7d2055fb27a6)
+![darkroom-testcase3](https://github.com/user-attachments/assets/41c6eb37-ae48-49b9-8410-8c9abd362fc5)
 
 ## Пример теста 1
 Входные данные
