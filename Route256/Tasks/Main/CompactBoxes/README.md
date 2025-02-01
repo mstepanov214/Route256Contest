@@ -34,7 +34,7 @@
 
 Иллюстрация к первому набору из примера:
 
-![boxes-boxes-testcase](https://github.com/user-attachments/assets/35de7bf7-12b6-453c-9828-bf4fad1985d1)
+![boxes-boxes-testcase](https://github.com/user-attachments/assets/8c93f455-9edc-4726-83a7-559e87037918)
 
 ## Пример теста 1
 Входные данные
