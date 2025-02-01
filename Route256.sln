@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route256", "Route256\Route256.csproj", "{189785B1-9C2E-4AE5-A229-36B7ABF7F02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route256Tests", "Route256Tests\Route256Tests.csproj", "{0B5977D1-CBEC-46AE-A0A9-AD929B931D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189785B1-9C2E-4AE5-A229-36B7ABF7F02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189785B1-9C2E-4AE5-A229-36B7ABF7F02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189785B1-9C2E-4AE5-A229-36B7ABF7F02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189785B1-9C2E-4AE5-A229-36B7ABF7F02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5977D1-CBEC-46AE-A0A9-AD929B931D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5977D1-CBEC-46AE-A0A9-AD929B931D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5977D1-CBEC-46AE-A0A9-AD929B931D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5977D1-CBEC-46AE-A0A9-AD929B931D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
