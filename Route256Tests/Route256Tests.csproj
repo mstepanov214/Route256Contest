@@ -20,9 +20,11 @@
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="TestCases\**">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
+  <Target Name="CreateSymlink" BeforeTargets="Build">
+    <Exec Command="if not exist $(OutputPath)\TestCases mklink /D $(OutputPath)\TestCases $(MSBuildProjectDirectory)\TestCases" />
+  </Target>
+
+  <Target Name="DeleteSymlink" BeforeTargets="Clean">
+    <Exec Command="if exist $(OutputPath)\TestCases rmdir $(OutputPath)\TestCases"/>
+  </Target>
 </Project>
