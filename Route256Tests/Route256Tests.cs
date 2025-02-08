@@ -96,7 +96,7 @@ public class Route256Tests
         using var output = new StringWriter();
 
         task.Run(input, output);
-        string result = output.ToString().Replace("\r", "");
+        string result = output.ToString().ReplaceLineEndings("\n");
 
         Assert.AreEqual(expectedOutput, result);
     }
