@@ -1,6 +1,6 @@
-﻿namespace Route256Tests;
+﻿namespace Route256Tests.Extensions;
 
-internal static class AssertExtensions
+public static class AssertExtensions
 {
     public static void AreEqualLineByLine(this Assert _, TextReader expected, TextReader actual)
     {

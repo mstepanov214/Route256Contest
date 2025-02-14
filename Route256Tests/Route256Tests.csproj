@@ -25,6 +25,6 @@
   </Target>
 
   <Target Name="DeleteSymlink" BeforeTargets="Clean">
-    <Exec Command="if exist $(OutputPath)\TestCases rmdir $(OutputPath)\TestCases"/>
+    <Exec Command="if exist $(OutputPath)\TestCases rmdir $(OutputPath)\TestCases" />
   </Target>
 </Project>

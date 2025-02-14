@@ -1,4 +1,4 @@
-﻿namespace Route256.Tasks.Training;
+﻿namespace Route256.Tasks;
 
 public class AsciiRobotsTask : IContestTask
 {

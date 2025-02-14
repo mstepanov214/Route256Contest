@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.Json;
 
-namespace Route256.Tasks.Training;
+namespace Route256.Tasks;
 
 public class VirusFilesTask : IContestTask
 {

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Route256.Tasks.Training;
+namespace Route256.Tasks;
 
 public class OrderPlannerTask : IContestTask
 {

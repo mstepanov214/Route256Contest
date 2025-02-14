@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Route256.Tasks.Main;
+namespace Route256.Tasks;
 
 public class EvenStringsTask : IContestTask
 {

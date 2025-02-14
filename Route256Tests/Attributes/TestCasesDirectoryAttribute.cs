@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Route256Tests;
+namespace Route256Tests.Attributes;
 
 [AttributeUsage(AttributeTargets.Method)]
 public class TestCasesDirectoryAttribute : Attribute, ITestDataSource

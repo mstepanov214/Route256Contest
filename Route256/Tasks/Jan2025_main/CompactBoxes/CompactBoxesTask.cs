@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Route256.Tasks.Main;
+namespace Route256.Tasks;
 
 public class CompactBoxesTask : IContestTask
 {

@@ -10,7 +10,7 @@ output.Write(a + b);
 */
 
 using System.Text;
-using Route256.Tasks.Training;
+using Route256.Tasks;
 
 string inputStr = "3\r\n9\r\n0\r\n9123";
 
